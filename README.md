@@ -2,7 +2,6 @@
 - 👀 I’m interested in designing websites
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on html,css and JavaScript 
-- 📫 How to reach me kiyinjieddrin@gmail.com
 - 😄 Pronouns: He or Him
 - ⚡ Fun fact: life is full of surprises
 
