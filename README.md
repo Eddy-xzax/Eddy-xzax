@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eddy-xzax
+- 👋 Hi, I’m @kiyingi-edrine
 - 👀 I’m interested in designing websites
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on html,css and JavaScript 
